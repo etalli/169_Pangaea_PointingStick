@@ -1,0 +1,28 @@
+(footprint "M2_Hole" (version 20210228) (generator pcbnew) (layer "F.Cu")
+  (tedit 6206759C)
+  (descr "Resitance 3 pas")
+  (tags "R")
+  (property "Sheetfile" "pangaea.kicad_sch")
+  (property "Sheetname" "")
+  (autoplace_cost180 10)
+  (fp_text reference "H66" (at 0 1.651) (layer "F.Fab") hide
+    (effects (font (size 0.8128 0.8128) (thickness 0.15)))
+    (tstamp 00069b6f-1148-4501-9466-abad06579dfc)
+  )
+  (fp_text value "MountingHole" (at 0 -1.4605) (layer "F.Fab") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (tstamp af6694f6-ad06-4f64-8357-d012dcb7d2b3)
+  )
+  (fp_circle (center 0 0) (end 2 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 5fc320a9-f55d-4ddc-99f1-d8ce11c0f376))
+  (pad "" np_thru_hole circle (at 0 0) (size 1.95 1.95) (drill 1.95) (layers F&B.Cu *.Mask) (tstamp 409f746c-bb26-4787-8435-086f836a46d5))
+  (model "discret/resistor.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.3 0.3 0.3))
+    (rotate (xyz 0 0 0))
+  )
+  (model "Resistors_ThroughHole.3dshapes/Resistor_Horizontal_RM10mm.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.2 0.2 0.2))
+    (rotate (xyz 0 0 0))
+  )
+)

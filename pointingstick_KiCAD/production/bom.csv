@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2",trackpoint-8pins-rev2,2,Conn_01x08_Socket,
+J3,JST_SH_BM03B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,1,Conn_01x04,
+J4,PinSocket_1x04_P2.00mm_Vertical,1,Conn_01x04,
+J5,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,
+J6,USB_C_Receptacle_AKIZUKIDENSHI,1,USB_C_Receptacle_USB2.0,

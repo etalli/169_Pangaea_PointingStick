@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "k2Library-2023rev1")(type "KiCad")(uri "${KIPRJMOD}/k2Library-2023rev1.pretty")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/footprint.pretty")(options "")(descr ""))
+)
