@@ -73,25 +73,13 @@
   "project": {
     "files": [
       {
-        "name": "pointingstick.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 165,
-          "pos_y": 84,
-          "size_x": 2230,
-          "size_y": 1296
-        }
-      },
-      {
         "name": "pointingstick.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 230,
-          "pos_y": 25,
+          "pos_x": -203,
+          "pos_y": -190,
           "size_x": 2123,
           "size_y": 1390
         }

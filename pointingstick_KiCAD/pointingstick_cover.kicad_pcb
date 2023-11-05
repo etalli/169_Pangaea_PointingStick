@@ -95,7 +95,7 @@
     (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp 7bd7e584-d4a6-4a44-ab13-d613b5df01dd))
   (gr_arc (start 16.1 16.5) (mid 16.626414 15.222758) (end 17.899911 14.687347)
     (stroke (width 0.15) (type default)) (layer "Edge.Cuts") (tstamp 824f98ba-c44f-4065-bf8d-a25e85338214))
-  (gr_line (start 17.9 14.7) (end 46.35 14.7)
+  (gr_line (start 17.899911 14.687347) (end 46.35 14.7)
     (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp 82c4130f-40c4-410c-bfc4-be3a33822c8b))
   (gr_circle (center 34.3 68.311258) (end 42.3 68.311258)
     (stroke (width 0.15) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp c2a483d0-ce69-4cc0-ac21-42c4699982fc))
@@ -113,10 +113,10 @@
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5) (island_removal_mode 1) (island_area_min 10))
     (polygon
       (pts
-        (xy 15 12.5)
-        (xy 15 95)
-        (xy 50 95)
-        (xy 50 12.5)
+        (xy 15.05 13.38)
+        (xy 15.13 96.05)
+        (xy 48.75 96.15)
+        (xy 48.67 13.48)
       )
     )
   )
